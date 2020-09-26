@@ -1,0 +1,11 @@
+{
+  "name": "triplebyte-review-app-placeholder",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "Standard-2X"
+    }
+  },
+  "addons": ["redisgreen"],
+  "buildpacks": ["https://github.com/heroku/heroku-buildpack-static.git"]
+}
